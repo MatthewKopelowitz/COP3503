@@ -1,0 +1,3 @@
+/Users/matthewkopelowitz/Desktop/COP3503/Project 1/COP3503/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/matthewkopelowitz/Desktop/COP3503/Project 1/COP3503/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matthewkopelowitz/Desktop/COP3503/Project 1/COP3503/cmake-build-debug/CMakeFiles/Project1.dir

@@ -30,7 +30,7 @@ class LinkedList {
 
     //Default Constructor
     LinkedList() {
-
+        //test
     }
 
     //Constructor
